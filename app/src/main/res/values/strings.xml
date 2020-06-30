@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">冬试</string>
+    <string name="welcome">初次见面，请多关照！为方便使用，这里是一些特殊准备的说明。\n\n
+        (1)考试从“考试入口”进入。只有完成较低难度的考试，才可以获得高难度考试的资格。\n
+        (2)点击“成绩单”，可以查看随着你的考试进度实时更新的成绩。\n
+        (3)不要中途退出考试，否则会被取消考试资格！\n
+        (4)考试过程中，可以点击“查看剩余时间”查看距离考试结束的时长；如果感觉题目很难，可以点击“标记”对题目进行标签。\n
+        (5)更多的提示可以参见题目说明。\n\n
+        请尽情享受这场答题之旅吧！</string>
+    <string name="word" formatted="false">(1)本次考试为 %s，该部分共 %d 题，题序号为 %s 。考试时间 %d 分钟，从进入题目开始计时。\n
+        (2)考试过程中不允许退出，否则将取消考试机会。答题完毕后，可通过成绩单查看答题结果。\n
+        (3)题型默认为单项选择题（多选题会标出）。确认进入下一题后不能返回检查，请谨慎答题。</string>
+    <string name="sum" formatted="false">本次考试，你共作答了 %d 部分，%d 题，正确率、得分情况与用时状况分别为：\n
+        （得分情况中，1表示正确，0表示错误，X表示未完成）\n\n</string>
+    <string name="each" formatted="false">
+         %s ：\n题数 %d 题，分数 %d 分，正确率 %d%% ，用时 %d 分 %d 秒。
+         \n得分情况： %s \n重点标记题目（顺序不分先后）：%s \n\n</string>
+    <string name="punishment" formatted="false">你在上一场考试中中途退出，已被取消 %s 的资格。</string>
+    <string name="time" formatted="false">当前考试剩余时间：%d 分 %d 秒。</string>
+    <string name="reminder" formatted="false">考试开始，本次考试时长：%d 分钟。</string>
+    <string name="timeWarn"> 剩余时间不足 5 分钟，请抓紧时间！</string>
+
+    <string name="gift" formatted="false"> %s 个愿望</string>
+    <string name="congratulations" formatted="false">恭喜你 %s 完成 %s 的考试，%s 个愿望送给你！\n（截图发给老公即可兑现）</string>
+</resources>
